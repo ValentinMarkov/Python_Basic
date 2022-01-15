@@ -6,3 +6,4 @@ print("Roses are " + color)
 print(plural_noun + " are blue")
 print("I love " + celebrity)
 print("hello")
+# New code line
