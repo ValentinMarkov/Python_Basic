@@ -10,3 +10,5 @@ print("hello")
 
 # Environment UT77
 
+new_data = "I create new things"
+print(new_data)
