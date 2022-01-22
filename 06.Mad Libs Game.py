@@ -12,3 +12,5 @@ print("hello")
 
 new_data = "I create new things"
 print(new_data)
+
+text = "this is code from master_copy"
