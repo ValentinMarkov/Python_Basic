@@ -1,0 +1,5 @@
+Before we fix this problem, please check if your text.txt file content is there. Well, the text file would be empty
+because we tried to write to a file without specifying what needs to be written and that will delete the existing
+content, therefore you must be careful when you are using the write mode. What if you want to read and write in the
+same file? We can use the mode=’r+’ if we want to read and write. Okay let’s write some content back to a text.txt
+file first:
