@@ -18,7 +18,7 @@ def get_ages(yob1, yob2, yob3):
 get_ages(1985, 1988, 2007)
 
 
-# Use *args
+# Use *argsssssssdsddsdeed    asdddffweasd asdsda
 def calc_ages(*years_of_birth):
     for year in years_of_birth:
         print(f'The age for your yob is {current_year - year}')
